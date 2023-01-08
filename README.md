@@ -10,9 +10,15 @@
 * Pandas and Numpy mehtods were used for the Data wrangling.
 * The Folium package was used to create map visualizations using the Geo-data.
 
+![](https://github.com/Diwura/diwura.github.io/blob/main/images/toronto_map.png)
+
+![](https://github.com/Diwura/diwura.github.io/blob/main/images/Toronto_word.png)
+
 <p> Final Results: Based on the outcome of the analysis a business case was proposed for which location will be best for setting up an African resturant. A detailed report of this business case is in the pdf file tittled. "torontoReport.pdf"</p>
 
 # [Project 2: Exploratory Data Analysis and Data Wrangling](https://github.com/Diwura/Data_Analysis_via_Python)
 ### Data_Analysis_via_Python - Project overview:
 This repo contains step by step instructions on Data Analysis using python on Jupyter Lab. It is currently a two series notebook on Data Wrangling and Exploratory Data Analysis
 The automobiles.csv file is the dataset we would be working with in an attempt to predict the sales price of a car.
+![](https://github.com/Diwura/diwura.github.io/blob/main/images/EDA1.png)
+![](https://github.com/Diwura/diwura.github.io/blob/main/images/EDA2.png)
